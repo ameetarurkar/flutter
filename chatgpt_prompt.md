@@ -1,3 +1,5 @@
+I want to build a note-taking app in Flutter. What instructions do I need to give my AI coding app?
+
 Creating a note-taking app in Flutter is a great project! To guide your AI coding app effectively, you can break down the project into specific instructions. Here’s a step-by-step outline you can use:
 
 ### 1. **Project Setup**
