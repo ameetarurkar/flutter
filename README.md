@@ -4,13 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a simple note-taking Flutter application.
+This project is a simple note-taking Flutter application developed using Cursor (cursor.com) and VS Code.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I asked ChatGPT to build the structure for a note-taking app in Flutter and the output has been added to the file `chatgpt_prompt.md`
