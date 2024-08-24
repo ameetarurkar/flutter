@@ -1,0 +1,28 @@
+name: note_taking_app
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.1 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.1
+  sqflite: ^2.3.2
+  path: ^1.8.3
+  flutter_quill: ^10.4.4
+  file_picker: ^8.1.2
+  path_provider: ^2.1.2
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.3
+  build_runner: ^2.4.8
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
